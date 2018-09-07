@@ -11,6 +11,7 @@
 - [BigJPG](http://bigjpg.com/zh) - ai 人工智能图片放大
 - [Lucidchart](https://www.lucidchart.com) - 图表绘制，支持流程图、泳道图、UML 等多种图表
 - [appear.in](https://appear.in/) - 在线会议工具
+- [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
 
 ## 设计资源
 
