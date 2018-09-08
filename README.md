@@ -48,6 +48,7 @@
 - [进群宝](http://www.jinqunbao.com/) - 社群营销增长与运营工具
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
 - [草料二维码](https://cli.im/) - 二维码营销服务解决方案
+- [七麦数据](https://www.qimai.cn/) - ASO 服务解决方案
 
 ## 其他
 
