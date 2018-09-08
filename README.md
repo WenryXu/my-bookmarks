@@ -12,6 +12,7 @@
 - [Lucidchart](https://www.lucidchart.com) - 图表绘制，支持流程图、泳道图、UML 等多种图表
 - [appear.in](https://appear.in/) - 在线会议工具
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
+- [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
 
 ## 设计资源
 
@@ -39,9 +40,13 @@
 - [DesignEvo](https://www.designevo.com/cn/) - 在线制作 LOGO
 - [稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
 - [进群宝](http://www.jinqunbao.com/) - 社群营销增长与运营工具
+- [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
 
 ## 其他
 
 - [独立](https://josephchang10.github.io/chinese-indie-hackers/) - 中国独立 iOS 和 macOS 开发者图鉴
 - [Rency](https://rency.com/) - 数字货币评级
 - [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
+- [WX Backup](http://wxbackup.imxfd.com/) - 微信聊天记录导出，导出后可以在浏览器中查看
+- [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
+- [Click Emoji](https://www.clickemoji.com/) - 点击复制并使用 Emoji
