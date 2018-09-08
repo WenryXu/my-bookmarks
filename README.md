@@ -34,6 +34,7 @@
 - [CDNPerf](https://www.cdnperf.com/) - CDN 服务速度测试
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
 - [What every Browser knows about you](http://webkay.robinlinus.com/) - 浏览器知道你的哪些信息
+- [LinkedME](https://www.linkedme.cc/index.html) - 深度链接服务提供商
 
 ## 营销工具
 
