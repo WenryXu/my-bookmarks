@@ -61,3 +61,4 @@
 - [CoinMarketCap](https://coinmarketcap.com) - 数字货币价格与趋势
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [domcomp](https://www.domcomp.com/) - 多域名注册商域名价格排名
+- [PayPay猪](https://paypayzhu.com) - 个人收款解决方案
