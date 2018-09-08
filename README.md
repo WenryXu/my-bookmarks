@@ -49,6 +49,7 @@
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
 - [草料二维码](https://cli.im/) - 二维码营销服务解决方案
 - [七麦数据](https://www.qimai.cn/) - ASO 服务解决方案
+- [百度指数](https://index.baidu.com) - 关键字百度搜索趋势
 
 ## 其他
 
