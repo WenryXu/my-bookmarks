@@ -13,6 +13,7 @@
 - [appear.in](https://appear.in/) - 在线会议工具
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
+- [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
 
 ## 设计资源
 
@@ -22,12 +23,17 @@
 - [unDraw](http://undraw.co/illustrations) - 可以更改颜色的 SVG 插画
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
 - [Bezier Curve](http://myst729.github.io/bezier-curve/) - 多阶贝塞尔曲线画给你看
+- [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
+- [Colorless](https://colorless.app/) - UI 控件配色工具
 
 ## 开发工具
 
 - [TestFlight.top](https://testflight.top) - 让 TestFlight 变得简单
 - [Carbon](https://carbon.now.sh) - 美化你的代码片段并生成图片
 - [stackshare](https://stackshare.io/) - 查看其他公司的技术栈
+- [CDNPerf](https://www.cdnperf.com/) - CDN 服务速度测试
+- [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
+- [What every Browser knows about you](http://webkay.robinlinus.com/) - 浏览器知道你的哪些信息
 
 ## 营销工具
 
@@ -50,3 +56,8 @@
 - [WX Backup](http://wxbackup.imxfd.com/) - 微信聊天记录导出，导出后可以在浏览器中查看
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [Click Emoji](https://www.clickemoji.com/) - 点击复制并使用 Emoji
+- [Artwork](https://artwork.today/) - AppStore 日推合集
+- [LocalBitcoins](https://localbitcoins.com/) - 数字货币场外交易
+- [CoinMarketCap](https://coinmarketcap.com) - 数字货币价格与趋势
+- [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
+- [domcomp](https://www.domcomp.com/) - 多域名注册商域名价格排名
