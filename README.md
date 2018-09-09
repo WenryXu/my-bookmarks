@@ -25,6 +25,7 @@
 - [Bezier Curve](http://myst729.github.io/bezier-curve/) - 多阶贝塞尔曲线画给你看
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
 - [Colorless](https://colorless.app/) - UI 控件配色工具
+- [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
 
 ## 开发工具
 
@@ -35,6 +36,14 @@
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
 - [What every Browser knows about you](http://webkay.robinlinus.com/) - 浏览器知道你的哪些信息
 - [LinkedME](https://www.linkedme.cc/index.html) - 深度链接服务提供商
+- [字蛛](http://font-spider.org/) - 只引入网站使用的文字的字体文件
+- [OverAPI](http://overapi.com/) - 各类 API 文档查询
+- [Can I Use](https://caniuse.com/) - 查看 HTML、CSS 特性在常见浏览器的支持情况
+- [Shields](https://shields.io/) - Github 中常见的项目版本号、状态小盾牌
+- [Choose a license](https://choosealicense.com/) - 选择适合你的开源项目的 License
+- [Awesomes](https://www.awesomes.cn/) - Web 前端开发资源库
+- [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
+- [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/) - 各版本 JS 特性在常见浏览器的支持情况
 
 ## 营销工具
 
