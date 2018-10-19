@@ -51,6 +51,7 @@
 - [Awesomes](https://www.awesomes.cn/) - Web 前端开发资源库
 - [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
 - [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/) - 各版本 JS 特性在常见浏览器的支持情况
+- [Switchr](http://switchr.imagility.io/) - 切换 App Store 地区
 
 ## 营销工具
 
