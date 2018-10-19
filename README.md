@@ -83,3 +83,4 @@
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [domcomp](https://www.domcomp.com/) - 多域名注册商域名价格排名
 - [PayPay猪](https://paypayzhu.com) - 个人收款解决方案
+- [嘀嘀嘀](https://kaiche.co) - 付费服务合买撮合
