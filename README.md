@@ -52,6 +52,7 @@
 - [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
 - [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/) - 各版本 JS 特性在常见浏览器的支持情况
 - [Switchr](http://switchr.imagility.io/) - 切换 App Store 地区
+- [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - 测试你的 favicon 在各浏览器各状态下的显示效果
 
 ## 营销工具
 
@@ -85,3 +86,8 @@
 - [PayPay猪](https://paypayzhu.com) - 个人收款解决方案
 - [嘀嘀嘀](https://kaiche.co) - 付费服务合买撮合
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
+- [Testflight.top 体验中心](https://testflight.top/t/applist) - 发现更多正在测试的 iOS Apps
+- [SHORTCUTS GALLERY by 少数派](https://shortcuts.sspai.com/) - 少数派出品的捷径 Store
+- [sharecuts 捷径社区](https://sharecuts.cn/) - 一个捷径 Store
+- [利器](http://liqi.io/) - 一个开发者访谈博客
+- [独立](https://josephchang10.github.io/chinese-indie-hackers/) - 中国独立 iOS 和 macOS 开发者图鉴
