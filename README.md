@@ -91,3 +91,4 @@
 - [sharecuts 捷径社区](https://sharecuts.cn/) - 一个捷径 Store
 - [利器](http://liqi.io/) - 一个开发者访谈博客
 - [独立](https://josephchang10.github.io/chinese-indie-hackers/) - 中国独立 iOS 和 macOS 开发者图鉴
+- [Emoji Builder](http://phlntn.com/emojibuilder/) - Emoji 创作平台
