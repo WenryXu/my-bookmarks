@@ -53,6 +53,7 @@
 - [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/) - 各版本 JS 特性在常见浏览器的支持情况
 - [Switchr](http://switchr.imagility.io/) - 切换 App Store 地区
 - [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - 测试你的 favicon 在各浏览器各状态下的显示效果
+- [imgcook](https://imgcook.taobao.org/) - 由设计稿一键生成代码
 
 ## 营销工具
 
