@@ -21,6 +21,7 @@
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
 - [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
+- [数字绘](https://www.myshuju.net/) - 在线图表绘制网站，基于开源实现，提供云存储，付费
 
 ## 设计资源
 
