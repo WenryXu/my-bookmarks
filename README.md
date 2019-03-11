@@ -37,6 +37,7 @@
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
 - [Pages](https://www.pages.xyz/) - 英文 UI 设计灵感库
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
+- [UI头条](http://uih2.com/) - UI 设计文章聚合
 - 🌟[Unsplash](https://unsplash.com/) - 知名无版权图库
 - [unDraw](http://undraw.co/illustrations) - 可以更改颜色的 SVG 插画
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
