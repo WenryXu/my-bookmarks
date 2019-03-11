@@ -80,6 +80,7 @@
 - [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
 - [domcomp](https://www.domcomp.com/) - 多域名注册商域名价格排名
 - [Emoji Builder](http://phlntn.com/emojibuilder/) - Emoji 创作平台
+- [Google 广告设置](https://adssettings.google.com/authenticated) - 查看 Google 广告对你的画像
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [LocalBitcoins](https://localbitcoins.com/) - 数字货币场外交易
 - [PayPay猪](https://paypayzhu.com) - 个人收款解决方案
