@@ -102,6 +102,7 @@
 - [domcomp](https://www.domcomp.com/) - 多域名注册商域名价格排名
 - [Google 广告设置](https://adssettings.google.com/authenticated) - 查看 Google 广告对你的画像
 - [PayPay猪](https://paypayzhu.com) - 个人收款解决方案
+- [TLD.party](https://tld.party/) - 在 1000+ 顶级域名中找到自己想要的顶级域名
 - [WX Backup](http://wxbackup.imxfd.com/) - 微信聊天记录导出，导出后可以在浏览器中查看
 - [嘀嘀嘀](https://kaiche.co) - 付费服务合买撮合
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
