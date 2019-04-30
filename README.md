@@ -63,6 +63,7 @@
 - [Choose a license](https://choosealicense.com/) - 选择适合你的开源项目的 License
 - [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/) - 各版本 JS 特性在常见浏览器的支持情况
 - [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - 测试你的 favicon 在各浏览器各状态下的显示效果
+- [Jsonnet](https://jsonnet.org/) - JSON 格式数据生成器
 - [OverAPI](http://overapi.com/) - 各类 API 文档查询
 - [Shields](https://shields.io/) - Github 中常见的项目版本号、状态小盾牌
 - [stackshare](https://stackshare.io/) - 查看其他公司的技术栈
