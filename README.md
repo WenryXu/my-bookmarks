@@ -36,6 +36,8 @@
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
 - [Pages](https://www.pages.xyz/) - 英文 UI 设计灵感库
+- [Pexels](https://www.pexels.com/) - 无版权图库
+- [Pexels Videos](https://www.pexels.com/) - 无版权视频库
 - [Picular](https://picular.co/) - 通过语义分析列出相应的颜色
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
 - [UI头条](http://uih2.com/) - UI 设计文章聚合
