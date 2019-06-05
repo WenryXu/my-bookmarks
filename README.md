@@ -33,6 +33,7 @@
 - [3D 公园](https://app.3dpark.net/) - UI 设计灵感库
 - [60logo](http://www.60logo.com/) - 品牌矢量 LOGO
 - [DesignEvo](https://www.designevo.com/cn/) - 在线制作 LOGO
+- [Emojious](https://www.emojious.com/) - 免费插话风格 icon
 - [Flat UI Colors 2](https://flatuicolors.com/) - Flat UI 配色方案
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
