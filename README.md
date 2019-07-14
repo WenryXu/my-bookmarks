@@ -43,6 +43,7 @@
 - [Picular](https://picular.co/) - 通过语义分析列出相应的颜色
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
 - [Remix Icon](https://remixicon.com/) - 开源可商用的图标库
+- [UI Store Design](https://www.uistore.design/) - 免费 UI Kits
 - [UI头条](http://uih2.com/) - UI 设计文章聚合
 - 🌟[Unsplash](https://unsplash.com/) - 知名无版权图库
 - [unDraw](http://undraw.co/illustrations) - 可以更改颜色的 SVG 插画
