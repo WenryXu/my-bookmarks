@@ -103,6 +103,7 @@
 - [Click Emoji](https://www.clickemoji.com/) - 点击复制并使用 Emoji
 - [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
 - [Emoji Builder](http://phlntn.com/emojibuilder/) - Emoji 创作平台
+- [Looks of Disapproval and more](https://looks.wtf/) - 颜文字大全
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 
 ## 其他
