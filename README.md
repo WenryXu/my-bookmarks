@@ -42,6 +42,7 @@
 - [Pexels Videos](https://www.pexels.com/) - 无版权视频库
 - [Picular](https://picular.co/) - 通过语义分析列出相应的颜色
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
+- [PS 拉框助手](https://pslkzs.com/) - PS 图表绘制插件
 - [Remix Icon](https://remixicon.com/) - 开源可商用的图标库
 - [UI Store Design](https://www.uistore.design/) - 免费 UI Kits
 - [UI头条](http://uih2.com/) - UI 设计文章聚合
