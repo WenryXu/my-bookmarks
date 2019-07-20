@@ -28,6 +28,7 @@
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
 - [TinyPNG](https://tinypng.com/) - 保证质量的图片压缩
 - [稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
+- [在线 PS](https://ps.gaoding.com/) - 搞定抠图出品在线 PhotoShop
 
 ## 设计素材
 - [3D 公园](https://app.3dpark.net/) - UI 设计灵感库
