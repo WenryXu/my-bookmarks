@@ -5,6 +5,10 @@
 - [简拾](http://www.jiantop.com/) - 简书热门文章日推
 - [萌码](http://mengma.moe/) - 颜文字合集
 
+## 远程工作 / 在线兼职
+- [程序员客栈](https://www.proginn.com/)
+- [好对友](https://ourwork.nework360.com/)
+
 ## 远程协作
 - [appear.in](https://appear.in/) - 在线会议工具
 
