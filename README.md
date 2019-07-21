@@ -114,6 +114,7 @@
 
 ## 其他
 - [Appscope](https://appsco.pe/) - PWA 应用大全
+- [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - macOS 动态壁纸
 - [domcomp](https://www.domcomp.com/) - 多域名注册商域名价格排名
 - [Google 广告设置](https://adssettings.google.com/authenticated) - 查看 Google 广告对你的画像
 - [MikuTools](https://miku.tools/) - 轻量的工具集合
