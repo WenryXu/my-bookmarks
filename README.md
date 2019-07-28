@@ -130,7 +130,8 @@
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
 - [利器](http://liqi.io/) - 一个开发者访谈博客
 - [企业活性查询](http://qymss.pullwave.com/) - 查看公司活跃程度，识别皮包公司
-- [在线工具](https://tool.lu/) - 程序员的工具箱，大量在线工具
+- [微信朋友圈点赞生成器](https://dianzanshengchengqi.cn/) - 免费在线使用的微信朋友圈点赞生成器
 - [一个工具箱](http://www.atoolbox.net/) - 好用的在线工具
+- [在线工具](https://tool.lu/) - 程序员的工具箱，大量在线工具
 
 🌟：本列表多款同类网站中推荐之选
