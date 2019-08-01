@@ -77,6 +77,7 @@
 - [Carbon](https://carbon.now.sh) - 美化你的代码片段并生成图片
 - [CDNPerf](https://www.cdnperf.com/) - CDN 服务速度测试
 - [Choose a license](https://choosealicense.com/) - 选择适合你的开源项目的 License
+- [Codeimg](https://codeimg.io/) - 使用图片分享你的代码，可以自定义样式
 - [CodeZen](http://codezen.rishimohan.me/) - 生成易于分享、优雅的「源代码」
 - [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/) - 各版本 JS 特性在常见浏览器的支持情况
 - [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - 测试你的 favicon 在各浏览器各状态下的显示效果
