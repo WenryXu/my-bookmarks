@@ -77,8 +77,4 @@
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
 - [在线 PS](https://ps.gaoding.com/) - 搞定抠图出品在线 PhotoShop
 
-## 效率
-- [SHORTCUTS GALLERY by 少数派](https://shortcuts.sspai.com/) - 少数派出品的捷径 Store
-- 🌟[sharecuts 捷径社区](https://sharecuts.cn/) - 一个捷径 Store
-
 🌟：精选网站
