@@ -25,18 +25,14 @@
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
 
 ## 软件开发工具
-- [Awesomes](https://www.awesomes.cn/) - Web 前端开发资源库
 - [Can I Use](https://caniuse.com/) - 查看 HTML、CSS 特性在常见浏览器的支持情况
 - [Carbon](https://carbon.now.sh) - 美化你的代码片段并生成图片
-- [CDNPerf](https://www.cdnperf.com/) - CDN 服务速度测试
-- [Choose a license](https://choosealicense.com/) - 选择适合你的开源项目的 License
 - [Codeimg](https://codeimg.io/) - 使用图片分享你的代码，可以自定义样式
 - [CodeZen](http://codezen.rishimohan.me/) - 生成易于分享、优雅的「源代码」
 - [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/) - 各版本 JS 特性在常见浏览器的支持情况
 - [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - 测试你的 favicon 在各浏览器各状态下的显示效果
 - [Jsonnet](https://jsonnet.org/) - JSON 格式数据生成器
 - [LinkedME](https://www.linkedme.cc/index.html) - 深度链接服务提供商
-- [OverAPI](http://overapi.com/) - 各类 API 文档查询
 - [Shields](https://shields.io/) - Github 中常见的项目版本号、状态小盾牌
 - [stackshare](https://stackshare.io/) - 查看其他公司的技术栈
 - [What every Browser knows about you](http://webkay.robinlinus.com/) - 浏览器知道你的哪些信息
