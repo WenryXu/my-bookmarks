@@ -9,7 +9,6 @@
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - macOS 动态壁纸
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
-- [独立](https://josephchang10.github.io/chinese-indie-hackers/) - 中国独立 iOS 和 macOS 开发者图鉴
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
 
 ## 工具
