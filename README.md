@@ -55,6 +55,7 @@
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
+- [Lstore Graphics](https://www.ls.graphics/) - 大量免费和收费的 Mockups
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
 - [PS 拉框助手](https://pslkzs.com/) - PS 图表绘制插件
 - [Remix Icon](https://remixicon.com/) - 开源可商用的图标库
