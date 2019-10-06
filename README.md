@@ -51,6 +51,7 @@
 - [FA2PNG](http://fa2png.io/) - 将 FontAwesome 图标转换为 PNG，可以修改大小和颜色
 - [Feather](https://feathericons.com/) - 开源线性图标库
 - [Flight Icon](https://www.flighticon.co/) - 微动画图标库
+- [HEICtoJPEG](https://heictojpg.com/) - 将 .heic 格式图片转换为 .jpg 格式
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
