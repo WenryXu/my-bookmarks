@@ -57,6 +57,7 @@
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
+- [Isometric](https://isometric.online/) - 免费可商用插画
 - [Lstore Graphics](https://www.ls.graphics/) - 大量免费和收费的 Mockups
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
 - [PS 拉框助手](https://pslkzs.com/) - PS 图表绘制插件
@@ -77,7 +78,7 @@
 - [造字工房](http://www.makefont.com/)
 - [字魂](https://izihun.com/)
 - [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
-- [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费个人与企业商用授权
-- [问藏书房品牌字体](http://www.wencang.com/font.jsp) - 免费个人与企业商用授权
+- [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费可商用
+- [问藏书房品牌字体](http://www.wencang.com/font.jsp) - 免费可商用
 
 🌟：精选网站
