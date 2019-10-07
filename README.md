@@ -69,4 +69,14 @@
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
 - [在线 PS](https://ps.gaoding.com/) - 搞定抠图出品在线 PhotoShop
 
+## 字体
+- [方正字库](http://www.foundertype.com/)
+- [汉仪字库](https://www.hanyi.com.cn/)
+- [喜鹊造字](https://shop110631460.taobao.com/)
+- [造字工房](http://www.makefont.com/)
+- [字魂](https://izihun.com/)
+- [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
+- [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费个人与企业商用授权
+- [问藏书房品牌字体](http://www.wencang.com/font.jsp) - 免费个人与企业商用授权
+
 🌟：精选网站
