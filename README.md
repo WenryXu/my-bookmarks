@@ -10,6 +10,7 @@
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
+- [后续](https://houxu.app/) - 持续追踪热点新闻
 
 ## 工具
 - [Click Emoji](https://www.clickemoji.com/) - 点击复制并使用 Emoji
