@@ -25,6 +25,7 @@
 - [Switchr](http://switchr.imagility.io/) - 切换 App Store 地区
 - 🌟[Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
+- [小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
 
 ## 软件开发工具
 - [Can I Use](https://caniuse.com/) - 查看 HTML、CSS 特性在常见浏览器的支持情况
