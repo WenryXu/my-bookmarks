@@ -51,6 +51,7 @@
 ## 图形和设计
 - [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
 - [BigJPG](http://bigjpg.com/zh) - ai 人工智能图片放大
+- [Color Hunt](https://colorhunt.co/) - 色板
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
 - [Emojious](https://www.emojious.com/) - 免费插画风格 icon
