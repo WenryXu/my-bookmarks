@@ -64,6 +64,7 @@
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
 - [Isometric](https://isometric.online/) - 免费可商用插画
+- [Leonardo](https://leonardocolor.io/) - 基于指定对比度的颜色生成器
 - [Lstore Graphics](https://www.ls.graphics/) - 大量免费和收费的 Mockups
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
 - [PS 拉框助手](https://pslkzs.com/) - PS 图表绘制插件
