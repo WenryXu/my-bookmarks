@@ -75,6 +75,7 @@
 - [useAnimations](https://useanimations.com/) - 微动画图标库
 - [稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
 - [犸良](https://design.alipay.com/emotion) - 一站式动效制作平台
+- [码力全开资源库](https://www.maliquankai.com/designnav/) - 产品/设计师/独立开发者的资源库
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
 - [在线 PS](https://ps.gaoding.com/) - 搞定抠图出品在线 PhotoShop
