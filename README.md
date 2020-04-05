@@ -20,7 +20,6 @@
 - [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
 - [MikuTools](https://miku.tools/) - 轻量的工具集合
-- [OpenWrite](https://openwrite.cn/) - 科技媒体分发工具
 - 🌟[ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
 - [Smallpdf](https://smallpdf.com/cn) - 解决和 PDF 相关的任何问题
 - [Switchr](http://switchr.imagility.io/) - 切换 App Store 地区
@@ -81,10 +80,7 @@
 
 ## 字体
 - [100font](https://www.100font.com/) - 免版权字体合集
-- [方正字库](http://www.foundertype.com/)
-- [汉仪字库](https://www.hanyi.com.cn/)
 - [喜鹊造字](https://shop110631460.taobao.com/)
-- [造字工房](http://www.makefont.com/)
 - [字魂](https://izihun.com/)
 - [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
 - [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费可商用
