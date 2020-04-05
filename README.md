@@ -1,7 +1,6 @@
 # My Bookmarks
 ## 财务
 - [CoinMarketCap](https://coinmarketcap.com) - 数字货币价格与趋势
-- [LocalBitcoins](https://localbitcoins.com/) - 数字货币场外交易
 - [PayPay猪](https://paypayzhu.com) - 个人收款解决方案
 
 ## 参考
