@@ -42,9 +42,8 @@
 - [字蛛](http://font-spider.org/) - 只引入网站使用的文字的字体文件
 
 ## 商务
-- [appear.in](https://appear.in/) - 在线会议工具
-- [程序员客栈](https://www.proginn.com/)
-- [好对友](https://ourwork.nework360.com/)
+- [程序员客栈](https://www.proginn.com/) - 远程工作
+- [云队友](https://.nework360.com/) - 远程工作
 
 ## 图形和设计
 - [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
