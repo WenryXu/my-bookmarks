@@ -14,21 +14,21 @@
 - [语义化版本](https://semver.org/lang/zh-CN/) -  版本号编写规范
 
 ## 工具
-- [Click Emoji](https://www.clickemoji.com/) - 点击复制并使用 Emoji
+- 🌟[Click Emoji](https://www.clickemoji.com/) - 点击复制并使用 Emoji
 - [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
 - [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
-- [MikuTools](https://miku.tools/) - 轻量的工具集合
+- 🌟[MikuTools](https://miku.tools/) - 轻量的工具集合
 - 🌟[ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
 - [Smallpdf](https://smallpdf.com/cn) - 解决和 PDF 相关的任何问题
 - [Switchr](http://switchr.imagility.io/) - 切换 App Store 地区
 - 🌟[Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
-- [小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
+- 🌟[小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
 
 ## 软件开发工具
-- [Can I Use](https://caniuse.com/) - 查看 HTML、CSS 特性在常见浏览器的支持情况
+- 🌟[Can I Use](https://caniuse.com/) - 查看 HTML、CSS 特性在常见浏览器的支持情况
 - [Carbon](https://carbon.now.sh) - 美化你的代码片段并生成图片
 - [Codeimg](https://codeimg.io/) - 使用图片分享你的代码，可以自定义样式
 - [CodeZen](http://codezen.rishimohan.me/) - 生成易于分享、优雅的「源代码」
@@ -51,9 +51,8 @@
 - [Color Hunt](https://colorhunt.co/) - 色板
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
-- [Emojious](https://www.emojious.com/) - 免费插画风格 icon
-- [FA2PNG](http://fa2png.io/) - 将 FontAwesome 图标转换为 PNG，可以修改大小和颜色
-- [Feather](https://feathericons.com/) - 开源线性图标库
+- 🌟[Emojious](https://www.emojious.com/) - 免费插画风格 icon
+- 🌟[Feather](https://feathericons.com/) - 开源线性图标库
 - [Flight Icon](https://www.flighticon.co/) - 微动画图标库
 - [HEICtoJPEG](https://heictojpg.com/) - 将 .heic 格式图片转换为 .jpg 格式
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
@@ -62,15 +61,13 @@
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
 - [Isometric](https://isometric.online/) - 免费可商用插画
 - [Leonardo](https://leonardocolor.io/) - 基于指定对比度的颜色生成器
-- [Lstore Graphics](https://www.ls.graphics/) - 大量免费和收费的 Mockups
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
-- [PS 拉框助手](https://pslkzs.com/) - PS 图表绘制插件
-- [Remix Icon](https://remixicon.com/) - 开源可商用的图标库
-- [TinyPNG](https://tinypng.com/) - 保证质量的图片压缩
+- 🌟[Remix Icon](https://remixicon.com/) - 开源可商用的图标库
+- 🌟[TinyPNG](https://tinypng.com/) - 保证质量的图片压缩
 - 🌟[Unsplash](https://unsplash.com/) - 知名无版权图库
 - [unDraw](http://undraw.co/illustrations) - 可以更改颜色的 SVG 插画
 - [useAnimations](https://useanimations.com/) - 微动画图标库
-- [稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
+- 🌟[稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
 - [犸良](https://design.alipay.com/emotion) - 一站式动效制作平台
 - [码力全开资源库](https://www.maliquankai.com/designnav/) - 产品/设计师/独立开发者的资源库
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
