@@ -14,15 +14,13 @@
 - [语义化版本](https://semver.org/lang/zh-CN/) -  版本号编写规范
 
 ## 工具
-- 🌟[Click Emoji](https://www.clickemoji.com/) - 点击复制并使用 Emoji
 - [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
-- [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
+- 🌟[CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
 - 🌟[MikuTools](https://miku.tools/) - 轻量的工具集合
 - 🌟[ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
 - [Smallpdf](https://smallpdf.com/cn) - 解决和 PDF 相关的任何问题
-- [Switchr](http://switchr.imagility.io/) - 切换 App Store 地区
 - 🌟[Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
 - 🌟[小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
@@ -52,6 +50,7 @@
 - [Color Hunt](https://colorhunt.co/) - 色板
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
+- [Dapollo](https://dapollo.alipay.com/) - 阿里出品，小程序设计 Sketch 插件
 - 🌟[Emojious](https://www.emojious.com/) - 免费插画风格 icon
 - 🌟[Feather](https://feathericons.com/) - 开源线性图标库
 - [Flight Icon](https://www.flighticon.co/) - 微动画图标库
@@ -71,11 +70,10 @@
 - 🌟[unscreen](https://www.unscreen.com/) - AI 自动抠视频背景
 - [useAnimations](https://useanimations.com/) - 微动画图标库
 - 🌟[稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
-- [犸良](https://design.alipay.com/emotion) - 一站式动效制作平台
+- [犸良](https://design.alipay.com/emotion) - 阿里出品，基于 Lottie 的动效制作平台
 - [码力全开资源库](https://www.maliquankai.com/designnav/) - 产品/设计师/独立开发者的资源库
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
-- [在线 PS](https://ps.gaoding.com/) - 搞定抠图出品在线 PhotoShop
 
 ## 字体
 - [100font](https://www.100font.com/) - 免版权字体合集
