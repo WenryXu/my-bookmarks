@@ -12,6 +12,7 @@
 - [后续](https://houxu.app/) - 持续追踪热点新闻
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/) - 更新日志编写规范
 - [语义化版本](https://semver.org/lang/zh-CN/) -  版本号编写规范
+- [职级对标](https://duibiao.info/) - 互联网公司薪资水平与职级对标
 
 ## 工具
 - [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
@@ -43,13 +44,17 @@
 - [字蛛](http://font-spider.org/) - 只引入网站使用的文字的字体文件
 
 ## 商务
+- [超级简历](https://www.wondercv.com/) - 简历撰写工具
 - [程序员客栈](https://www.proginn.com/) - 远程工作
-- [云队友](https://.nework360.com/) - 远程工作
+- [会议桌](https://www.huiyizhuo.com/) - 可视化团队协作工具
+- [小画桌](https://xiaohuazhuo.com/) - 在线协作白板
+- [云队友](https://nework360.com/) - 远程工作
 
 ## 图形和设计
 - [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
 - [BigJPG](http://bigjpg.com/zh) - ai 人工智能图片放大
 - [Color Hunt](https://colorhunt.co/) - 色板
+- [Color.review](https://color.review/) - 文本色与背景色对比度测试评级
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
 - [Dapollo](https://dapollo.alipay.com/) - 阿里出品，小程序设计 Sketch 插件
@@ -84,5 +89,10 @@
 - [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
 - [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费可商用
 - [问藏书房品牌字体](http://www.wencang.com/font.jsp) - 免费可商用
+
+## 数据采集、处理、分析与可视化
+- [BDP](https://me.bdp.cn/home.html) - 数据分析与可视化
+- [Tableau](https://www.tableau.com/) - 数据分析与可视化
+- [八爪鱼采集器](https://www.bazhuayu.com/) - 数据采集爬虫
 
 🌟：精选网站
