@@ -17,6 +17,7 @@
 - [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
 - 🌟[CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
+- 🌟[DeepL Translate](https://www.deepl.com/) - 人工智能翻译工具
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
 - 🌟[MikuTools](https://miku.tools/) - 轻量的工具集合
 - 🌟[ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
