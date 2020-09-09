@@ -22,6 +22,7 @@
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
 - 🌟[MikuTools](https://miku.tools/) - 轻量的工具集合
 - 🌟[ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
+- [Pullword](http://www.pullword.com/) - 基于深度学习的中文在线抽词
 - [SeaTable](https://seatable.cn/) - 新一代在线协同表格和信息管理系统
 - [Smallpdf](https://smallpdf.com/cn) - 解决和 PDF 相关的任何问题
 - 🌟[Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
