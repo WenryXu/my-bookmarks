@@ -20,14 +20,14 @@
 - 🌟[CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
 - 🌟[DeepL Translate](https://www.deepl.com/) - 人工智能翻译工具
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
-- 🌟[MikuTools](https://miku.tools/) - 轻量的工具集合
+- [MikuTools](https://miku.tools/) - 轻量的工具集合
 - 🌟[ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
 - [Pullword](http://www.pullword.com/) - 基于深度学习的中文在线抽词
-- [SeaTable](https://seatable.cn/) - 新一代在线协同表格和信息管理系统
+- 🌟[SeaTable](https://seatable.cn/) - 新一代在线协同表格和信息管理系统
 - [Smallpdf](https://smallpdf.com/cn) - 解决和 PDF 相关的任何问题
 - 🌟[Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
-- [秘塔写作猫](https://xiezuocat.com/) - AI 写作校阅
+- 🌟[秘塔写作猫](https://xiezuocat.com/) - AI 写作校阅
 - 🌟[小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
 
 ## 软件开发工具
