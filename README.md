@@ -38,6 +38,7 @@
 - [CodeZen](http://codezen.rishimohan.me/) - 生成易于分享、优雅的「源代码」
 - [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/) - 各版本 JS 特性在常见浏览器的支持情况
 - [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - 测试你的 favicon 在各浏览器各状态下的显示效果
+- [Isoflow](https://isoflow.io/) - 系统架构图绘制工具
 - [Jsonnet](https://jsonnet.org/) - JSON 格式数据生成器
 - [LinkedME](https://www.linkedme.cc/index.html) - 深度链接服务提供商
 - [Shields](https://shields.io/) - Github 中常见的项目版本号、状态小盾牌
@@ -59,10 +60,7 @@
 - [Color.review](https://color.review/) - 文本色与背景色对比度测试评级
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
-- [Dapollo](https://dapollo.alipay.com/) - 阿里出品，小程序设计 Sketch 插件
-- 🌟[Emojious](https://www.emojious.com/) - 免费插画风格 icon
 - 🌟[Feather](https://feathericons.com/) - 开源线性图标库
-- [Flight Icon](https://www.flighticon.co/) - 微动画图标库
 - [HEICtoJPEG](https://heictojpg.com/) - 将 .heic 格式图片转换为 .jpg 格式
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
@@ -80,7 +78,6 @@
 - [useAnimations](https://useanimations.com/) - 微动画图标库
 - 🌟[稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
 - [犸良](https://design.alipay.com/emotion) - 阿里出品，基于 Lottie 的动效制作平台
-- [码力全开资源库](https://www.maliquankai.com/designnav/) - 产品/设计师/独立开发者的资源库
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
 
@@ -91,10 +88,5 @@
 - [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
 - [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费可商用
 - [问藏书房品牌字体](http://www.wencang.com/font.jsp) - 免费可商用
-
-## 数据采集、处理、分析与可视化
-- [BDP](https://me.bdp.cn/home.html) - 数据分析与可视化
-- [Tableau](https://www.tableau.com/) - 数据分析与可视化
-- [八爪鱼采集器](https://www.bazhuayu.com/) - 数据采集爬虫
 
 🌟：精选网站
