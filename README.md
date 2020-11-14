@@ -12,27 +12,26 @@
 - [后续](https://houxu.app/) - 持续追踪热点新闻
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/) - 更新日志编写规范
 - [语义化版本](https://semver.org/lang/zh-CN/) -  版本号编写规范
-- [职级对标](https://duibiao.info/) - 互联网公司薪资水平与职级对标
 
 ## 工具
 - [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
-- 🌟[CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
-- 🌟[DeepL Translate](https://www.deepl.com/) - 人工智能翻译工具
+- 💖 [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
+- [DeepL Translate](https://www.deepl.com/) - 人工智能翻译工具
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
 - [MikuTools](https://miku.tools/) - 轻量的工具集合
-- 🌟[ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
+- 💖 [ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
 - [Pullword](http://www.pullword.com/) - 基于深度学习的中文在线抽词
-- 🌟[SeaTable](https://seatable.cn/) - 新一代在线协同表格和信息管理系统
+- [SeaTable](https://seatable.cn/) - 新一代在线协同表格和信息管理系统
 - [Smallpdf](https://smallpdf.com/cn) - 解决和 PDF 相关的任何问题
-- 🌟[Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
+- 💖 [Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
-- 🌟[秘塔写作猫](https://xiezuocat.com/) - AI 写作校阅
-- 🌟[小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
+- 💖 [秘塔写作猫](https://xiezuocat.com/) - AI 写作校阅
+- 💖 [小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
 
 ## 软件开发工具
 - [ASCIIFlow](http://asciiflow.com/) - 字符画绘制工具
-- 🌟[Can I Use](https://caniuse.com/) - 查看 HTML、CSS 特性在常见浏览器的支持情况
+- 💖 [Can I Use](https://caniuse.com/) - 查看 HTML、CSS 特性在常见浏览器的支持情况
 - [Carbon](https://carbon.now.sh) - 美化你的代码片段并生成图片
 - [Codeimg](https://codeimg.io/) - 使用图片分享你的代码，可以自定义样式
 - [CodeZen](http://codezen.rishimohan.me/) - 生成易于分享、优雅的「源代码」
@@ -56,12 +55,10 @@
 ## 图形和设计
 - [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
 - [BigJPG](http://bigjpg.com/zh) - ai 人工智能图片放大
-- [Color Hunt](https://colorhunt.co/) - 色板
 - [Color.review](https://color.review/) - 文本色与背景色对比度测试评级
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
-- 🌟[Feather](https://feathericons.com/) - 开源线性图标库
-- [HEICtoJPEG](https://heictojpg.com/) - 将 .heic 格式图片转换为 .jpg 格式
+- 💖 [Feather](https://feathericons.com/) - 开源线性图标库
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
@@ -69,14 +66,15 @@
 - [Isometric](https://isometric.online/) - 免费可商用插画
 - [Leonardo](https://leonardocolor.io/) - 基于指定对比度的颜色生成器
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
-- 🌟[Remix Icon](https://remixicon.com/) - 开源可商用的图标库
-- 🌟[Removebg](https://www.remove.bg/) - AI 自动抠图
-- 🌟[TinyPNG](https://tinypng.com/) - 保证质量的图片压缩
-- 🌟[Unsplash](https://unsplash.com/) - 知名无版权图库
-- [unDraw](http://undraw.co/illustrations) - 可以更改颜色的 SVG 插画
-- 🌟[unscreen](https://www.unscreen.com/) - AI 自动抠视频背景
+- [Remix Icon](https://remixicon.com/) - 开源可商用的图标库
+- 💖 [Removebg](https://www.remove.bg/) - AI 自动抠图
+- [Simple Icons](http://simpleicons.org/) - 1400+ 品牌 LOGO icon
+- 💖 [TinyPNG](https://tinypng.com/) - 保证质量的图片压缩
+- 💖 [Unsplash](https://unsplash.com/) - 知名无版权图库
+- 💖 [unDraw](http://undraw.co/illustrations) - 可以更改颜色的 SVG 插画
+- 💖 [unscreen](https://www.unscreen.com/) - AI 自动抠视频背景
 - [useAnimations](https://useanimations.com/) - 微动画图标库
-- 🌟[稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
+- [稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
 - [犸良](https://design.alipay.com/emotion) - 阿里出品，基于 Lottie 的动效制作平台
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
@@ -88,5 +86,3 @@
 - [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
 - [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费可商用
 - [问藏书房品牌字体](http://www.wencang.com/font.jsp) - 免费可商用
-
-🌟：精选网站
