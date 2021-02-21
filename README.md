@@ -10,6 +10,7 @@
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
 - [后续](https://houxu.app/) - 持续追踪热点新闻
+- [千亿像素看中国](http://pf.bigpixel.cn/zh-CN.html) - 中国、世界城市照片
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/) - 更新日志编写规范
 - [语义化版本](https://semver.org/lang/zh-CN/) -  版本号编写规范
 
