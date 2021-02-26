@@ -9,6 +9,7 @@
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
+- [国家法律法规数据库](https://flk.npc.gov.cn/) - 中国现行有效的宪法（含修正案）、法律、行政法规、地方性法规、自治条例和单行条例、经济特区法规、司法解释电子文本
 - [后续](https://houxu.app/) - 持续追踪热点新闻
 - [千亿像素看中国](http://pf.bigpixel.cn/zh-CN.html) - 中国、世界城市照片
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/) - 更新日志编写规范
