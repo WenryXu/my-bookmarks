@@ -89,3 +89,9 @@
 - [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
 - [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费可商用
 - [问藏书房品牌字体](http://www.wencang.com/font.jsp) - 免费可商用
+
+## 内容订阅
+- [增长黑客周刊（GHacker.vip）往期存档](https://www.notion.so/GHacker-vip-ac21e4002f0b466f9e67610ca2845b68) - 《增长黑客》作者范冰（@XDash）维护的 Newsletter 存档
+- [犬校精华贴](https://www.notion.so/2018-20-00d2afab8bbe4a4bbdb9811f884ba1da) - @纯银 发起的产品经理私密社区精华讨论合集（2018 年 - 2020 年 1 月）
+- [产品沉思录（精选） ProductThinking](https://www.notion.so/ProductThinking-a601a12335044f349a22caf57f274c27) - @少楠 发起的 Newsletter《产品沉思录》精选集
+- [B 端竞品列表](https://youthce.com/saas) - 100+ B 端产品
