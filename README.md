@@ -9,6 +9,7 @@
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
+- [发现报告](https://www.fxbaogao.com/) - 行业 / 公司 / 宏观研究报告
 - [国家法律法规数据库](https://flk.npc.gov.cn/) - 中国现行有效的宪法（含修正案）、法律、行政法规、地方性法规、自治条例和单行条例、经济特区法规、司法解释电子文本
 - [后续](https://houxu.app/) - 持续追踪热点新闻
 - [千亿像素看中国](http://pf.bigpixel.cn/zh-CN.html) - 中国、世界城市照片
@@ -78,6 +79,7 @@
 - 💖 [unscreen](https://www.unscreen.com/) - AI 自动抠视频背景
 - [useAnimations](https://useanimations.com/) - 微动画图标库
 - [稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
+- [花火Hanabi](https://hanabi.data-viz.cn/) - 动态可视化图表制作工具
 - [犸良](https://design.alipay.com/emotion) - 阿里出品，基于 Lottie 的动效制作平台
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
