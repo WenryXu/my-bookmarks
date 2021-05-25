@@ -14,6 +14,7 @@
 - [后续](https://houxu.app/) - 持续追踪热点新闻
 - [千亿像素看中国](http://pf.bigpixel.cn/zh-CN.html) - 中国、世界城市照片
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/) - 更新日志编写规范
+- [微信读书排行榜~热门标注](http://klib.me/weread/hot/all.html) - 微信读书排行榜与书内热门标注
 - [语义化版本](https://semver.org/lang/zh-CN/) -  版本号编写规范
 
 ## 工具
@@ -33,6 +34,7 @@
 - 💖 [秘塔写作猫](https://xiezuocat.com/) - AI 写作校阅
 - [团子](https://dango.ai/) - AI 提取伴奏与人声
 - 💖 [小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
+- [致美化](https://zhutix.com/) - Windows 系统美化工具平台
 
 ## 软件开发工具
 - [ASCIIFlow](http://asciiflow.com/) - 字符画绘制工具
@@ -73,6 +75,7 @@
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
 - [Remix Icon](https://remixicon.com/) - 开源可商用的图标库
 - 💖 [Removebg](https://www.remove.bg/) - AI 自动抠图
+- [Screen Sizes](https://www.screensizes.app/) - Apple 设备尺寸信息
 - [Simple Icons](http://simpleicons.org/) - 1400+ 品牌 LOGO icon
 - 💖 [TinyPNG](https://tinypng.com/) - 保证质量的图片压缩
 - 💖 [Unsplash](https://unsplash.com/) - 知名无版权图库
