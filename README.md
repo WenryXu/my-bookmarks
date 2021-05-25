@@ -31,6 +31,7 @@
 - 💖 [Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
 - 💖 [秘塔写作猫](https://xiezuocat.com/) - AI 写作校阅
+- [团子](https://dango.ai/) - AI 提取伴奏与人声
 - 💖 [小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
 
 ## 软件开发工具
