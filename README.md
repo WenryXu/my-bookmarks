@@ -107,6 +107,7 @@
 - [B 端竞品列表](https://youthce.com/saas) - 100+ B 端产品
 - [刻意体会](https://kyth.hedwig.pub/) - 小宇宙产品经理 @kyth 的 Newsletter
 
-## 资料合集
+## 在线文档
 - [iAR Design](http://iar.design/) - AR 的 Handbook
 - [认知偏差手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
+- [设计模式](https://www.yuque.com/ant-design/design-pattern) - Ant Desgin 设计模式
