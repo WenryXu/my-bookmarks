@@ -110,3 +110,6 @@
 - [iAR Design](http://iar.design/) - AR 的 Handbook
 - [认知偏差手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
 - [设计模式](https://www.yuque.com/ant-design/design-pattern) - Ant Desgin 设计模式
+- [Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/) - W3C 中文排版规范
+
+- [花火Hanabi](https://hanabi.data-viz.cn/) - 动态可视化图表制作工具
