@@ -111,3 +111,11 @@
 - [认知偏差手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
 - [设计模式](https://www.yuque.com/ant-design/design-pattern) - Ant Desgin 设计模式
 - [Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/) - W3C 中文排版规范
+- [剑指前端 Offer](http://febook.hzfe.org/awesome-interview)
+- [React 技术揭秘](https://react.iamkasong.com/)
+
+## 网页
+- [高教社二维码服务平台](https://2d.hep.com.cn/)
+- [三士渡教育](https://stoooges.com/web/)
+- [Stripe Press](https://press.stripe.com/)
+- [The Sea We Breathe](https://www.bluemarinefoundation.com/the-sea-we-breathe/)
