@@ -115,6 +115,7 @@
 - [剑指前端 Offer](http://febook.hzfe.org/awesome-interview)
 - [React 技术揭秘](https://react.iamkasong.com/)
 - [《计算机体系结构基础》（第三版）](https://github.com/foxsen/archbase)
+- [Yachen 的购物推荐](https://www.notion.so/Yachen-03d59139b57942f1bb4c090a68f28e88)
 
 ## 元宇宙
 - [Decentraland](https://decentraland.org/)
