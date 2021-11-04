@@ -114,6 +114,7 @@
 - [Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/) - W3C 中文排版规范
 - [剑指前端 Offer](http://febook.hzfe.org/awesome-interview)
 - [React 技术揭秘](https://react.iamkasong.com/)
+- [《计算机体系结构基础》（第三版）](https://github.com/foxsen/archbase)
 
 ## 网页
 - [高教社二维码服务平台](https://2d.hep.com.cn/)
