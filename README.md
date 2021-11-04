@@ -116,6 +116,13 @@
 - [React 技术揭秘](https://react.iamkasong.com/)
 - [《计算机体系结构基础》（第三版）](https://github.com/foxsen/archbase)
 
+## 元宇宙
+- [Decentraland](https://decentraland.org/)
+- [Roblox](https://www.roblox.com/)
+- [The Sandbox Game](https://www.sandbox.game/)
+- [Axie Infinity](https://axieinfinity.com/)
+- [Cryptovoxels](https://www.cryptovoxels.com/)
+
 ## 网页
 - [高教社二维码服务平台](https://2d.hep.com.cn/)
 - [三士渡教育](https://stoooges.com/web/)
