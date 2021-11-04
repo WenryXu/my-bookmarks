@@ -98,6 +98,7 @@
 - [Planet Maker](http://planetmaker.apoapsys.com/) - 写实星球生成器
 - [Little Big City](https://pissang.github.io/little-big-city/) - Lowpoly 星球生成器
 - [Blob Mixer](https://blobmixer.14islands.com/) - 动态噪波球生成器
+- [Google Earth Studio](https://www.google.com/earth/studio/) - Google 的地图可视化神器
 
 ## 字体
 - [100font](https://www.100font.com/) - 免版权字体合集
