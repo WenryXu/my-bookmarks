@@ -10,6 +10,7 @@
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
 - [发现报告](https://www.fxbaogao.com/) - 行业 / 公司 / 宏观研究报告
+- [国家标准全文公开](http://openstd.samr.gov.cn/) - 国家市场监督管理总局、国家标准委发布的全部强制性或推荐性国家标准
 - [国家法律法规数据库](https://flk.npc.gov.cn/) - 中国现行有效的宪法（含修正案）、法律、行政法规、地方性法规、自治条例和单行条例、经济特区法规、司法解释电子文本
 - [国家中小学网络云平台](https://ykt.eduyun.cn/) - 教育部中央电化教育馆推出中小学在线学习资源
 - [后续](https://houxu.app/) - 持续追踪热点新闻
