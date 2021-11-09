@@ -24,6 +24,7 @@
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
 - 💖 [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
 - [DeepL Translate](https://www.deepl.com/) - 人工智能翻译工具
+- [EMOJIALL](https://www.emojiall.com/zh-hans) - Emoji 词典
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
 - [MikuTools](https://miku.tools/) - 轻量的工具集合
 - [PDF to PNG](https://pdf2png.com/zh/) - PDF 文档转 PNG 图像
