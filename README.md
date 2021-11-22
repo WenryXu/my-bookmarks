@@ -51,6 +51,7 @@
 - [Isoflow](https://isoflow.io/) - 系统架构图绘制工具
 - [Jsonnet](https://jsonnet.org/) - JSON 格式数据生成器
 - [LinkedME](https://www.linkedme.cc/index.html) - 深度链接服务提供商
+- [Quire](https://quire.io/) - 包含看板和甘特图的项目管理工具
 - [Shields](https://shields.io/) - Github 中常见的项目版本号、状态小盾牌
 - [stackshare](https://stackshare.io/) - 查看其他公司的技术栈
 - [What every Browser knows about you](http://webkay.robinlinus.com/) - 浏览器知道你的哪些信息
