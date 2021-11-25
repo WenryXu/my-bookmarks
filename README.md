@@ -70,6 +70,7 @@
 - [Color.review](https://color.review/) - 文本色与背景色对比度测试评级
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
+- [emojimix](https://tikolu.net/emojimix) - 将随机两个 emoji 合并为一个表情
 - 💖 [Feather](https://feathericons.com/) - 开源线性图标库
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
