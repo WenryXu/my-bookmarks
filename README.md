@@ -8,6 +8,7 @@
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - macOS 动态壁纸
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
+- [untools](https://untools.co/) - 思考工具和框架及使用方法
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
 - [发现报告](https://www.fxbaogao.com/) - 行业 / 公司 / 宏观研究报告
 - [国家标准全文公开](http://openstd.samr.gov.cn/) - 国家市场监督管理总局、国家标准委发布的全部强制性或推荐性国家标准
