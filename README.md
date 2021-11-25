@@ -122,12 +122,9 @@
 ## 在线文档
 - [Apple 人机交互指南](https://developer.apple.com/design/human-interface-guidelines/)
 - [iAR Design](http://iar.design/) - AR 的 Handbook
-- [认知偏差手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
-- [设计模式](https://www.yuque.com/ant-design/design-pattern) - Ant Desgin 设计模式
 - [Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/) - W3C 中文排版规范
 - [剑指前端 Offer](http://febook.hzfe.org/awesome-interview)
 - [React 技术揭秘](https://react.iamkasong.com/)
-- [《计算机体系结构基础》（第三版）](https://github.com/foxsen/archbase)
 - [Yachen 的购物推荐](https://www.notion.so/Yachen-03d59139b57942f1bb4c090a68f28e88)
 - [Material Design 3](https://m3.material.io/)
 
