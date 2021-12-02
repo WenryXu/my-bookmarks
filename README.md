@@ -83,6 +83,7 @@
 - [Remix Icon](https://remixicon.com/) - 开源可商用的图标库
 - 💖 [Removebg](https://www.remove.bg/) - AI 自动抠图
 - [Screen Sizes](https://www.screensizes.app/) - Apple 设备尺寸信息
+- [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS 阴影调试生成器
 - [Simple Icons](http://simpleicons.org/) - 1400+ 品牌 LOGO icon
 - 💖 [TinyPNG](https://tinypng.com/) - 保证质量的图片压缩
 - 💖 [Unsplash](https://unsplash.com/) - 知名无版权图库
