@@ -7,6 +7,7 @@
 - [Appscope](https://appsco.pe/) - PWA 应用大全
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - macOS 动态壁纸
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
+- [Mobile Phone Museum](https://www.mobilephonemuseum.com/) - 手机博物馆
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [untools](https://untools.co/) - 思考工具和框架及使用方法
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
