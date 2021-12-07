@@ -70,6 +70,7 @@
 ## 图形和设计
 - [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
 - [BigJPG](http://bigjpg.com/zh) - ai 人工智能图片放大
+- [BlenderKit](https://www.blenderkit.com/) - 可商用 Blender 模型库
 - [Color.review](https://color.review/) - 文本色与背景色对比度测试评级
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
