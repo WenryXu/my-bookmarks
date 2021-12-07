@@ -22,6 +22,7 @@
 - [语义化版本](https://semver.org/lang/zh-CN/) -  版本号编写规范
 
 ## 工具
+- [AppFlowy.IO](https://www.appflowy.io/) - 开源版本的 Notion
 - [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
 - 💖 [CopyChar](http://copychar.cc/popular) - 找到各种特殊字符并复制到剪切板
@@ -72,6 +73,7 @@
 - [Color.review](https://color.review/) - 文本色与背景色对比度测试评级
 - [Colorless](https://colorless.app/) - UI 控件配色工具
 - [Contrast Ratio](https://contrast-ratio.com/) - 文本色与背景色对比度测试
+- [Device Frames](https://deviceframes.com/) - 3D 手机展示模型
 - [emojimix](https://tikolu.net/emojimix) - 将随机两个 emoji 合并为一个表情
 - 💖 [Feather](https://feathericons.com/) - 开源线性图标库
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
