@@ -6,6 +6,7 @@
 ## 参考
 - [Appscope](https://appsco.pe/) - PWA 应用大全
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - macOS 动态壁纸
+- [FilmGrab](https://film-grab.com/) - 全世界电影截图汇总
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [Mobile Phone Museum](https://www.mobilephonemuseum.com/) - 手机博物馆
 - [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
