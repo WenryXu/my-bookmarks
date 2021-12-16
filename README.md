@@ -18,6 +18,7 @@
 - [国家中小学网络云平台](https://ykt.eduyun.cn/) - 教育部中央电化教育馆推出中小学在线学习资源
 - [后续](https://houxu.app/) - 持续追踪热点新闻
 - [千亿像素看中国](http://pf.bigpixel.cn/zh-CN.html) - 中国、世界城市照片
+- [全历史](https://www.allhistory.com/) - 世界国家历史时间轴
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/) - 更新日志编写规范
 - [微信读书排行榜~热门标注](http://klib.me/weread/hot/all.html) - 微信读书排行榜与书内热门标注
 - [语义化版本](https://semver.org/lang/zh-CN/) -  版本号编写规范
