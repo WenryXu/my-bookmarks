@@ -34,6 +34,7 @@
 - [EMOJIALL](https://www.emojiall.com/zh-hans) - Emoji 词典
 - [iLovePDF](https://www.ilovepdf.com/zh_cn) - PDF 文件在线管理工具
 - [MikuTools](https://miku.tools/) - 轻量的工具集合
+- [Omni Calculator](https://www.omnicalculator.com/) - 全能计算器，支持生活中的 2163 种计算
 - [PDF to PNG](https://pdf2png.com/zh/) - PDF 文档转 PNG 图像
 - 💖 [ProcessOn](https://www.processon.com/) - 图表绘制，支持几乎所有类型的图表
 - [Pullword](http://www.pullword.com/) - 基于深度学习的中文在线抽词
