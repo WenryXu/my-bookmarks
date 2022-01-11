@@ -103,6 +103,7 @@
 - [WeDesign](https://wechat.design/) - 微信设计规范
 - [稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
 - [花火Hanabi](https://hanabi.data-viz.cn/) - 动态可视化图表制作工具
+- [渐变颜色](http://color.oulu.me/) - 180 种好看的线性渐变
 - [犸良](https://design.alipay.com/emotion) - 阿里出品，基于 Lottie 的动效制作平台
 - [皮卡智能](http://www.picup.shop/) - 图片、视频抠图去背景
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
