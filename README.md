@@ -100,6 +100,7 @@
 - 💖 [unDraw](http://undraw.co/illustrations) - 可以更改颜色的 SVG 插画
 - 💖 [unscreen](https://www.unscreen.com/) - AI 自动抠视频背景
 - [useAnimations](https://useanimations.com/) - 微动画图标库
+- [Waifu Labs](https://waifulabs.com/) - 利用生成对抗网络自动生成二次元头像
 - [WeDesign](https://wechat.design/) - 微信设计规范
 - [稿定扣图](https://www.gaoding.com/koutu) - 在线扣图工具
 - [花火Hanabi](https://hanabi.data-viz.cn/) - 动态可视化图表制作工具
