@@ -144,6 +144,7 @@
 - [Yachen 的购物推荐](https://www.notion.so/Yachen-03d59139b57942f1bb4c090a68f28e88)
 - [Material Design 3](https://m3.material.io/)
 - [Maze Question Bank](https://mazedesign.notion.site/461e7de3f3ed4e25835d88f701fbf7c0?v=8e36ee3a7b224dcabf42ddf5484ed90a) - Maze 的用户体验研究问题库
+- [52 Design Principles](https://rpdc.xiaohongshu.com/52-design-principles) - 小红书产品设计中心整理的 52 条设计原则
 
 ## 元宇宙
 - [Decentraland](https://decentraland.org/)
