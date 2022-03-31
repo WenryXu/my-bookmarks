@@ -87,6 +87,7 @@
 - [emojimix](https://tikolu.net/emojimix) - 将随机两个 emoji 合并为一个表情
 - 💖 [Feather](https://feathericons.com/) - 开源线性图标库
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
+- [icon-Z](https://icon-z.com/index.html) - 在线捏脸工具，素材多
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
 - [Iconfont](http://www.iconfont.cn/) - 图标查找与管理
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
