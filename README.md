@@ -26,6 +26,7 @@
 ## 工具
 - [123apps](https://123apps.com/) - 在线的文件处理工具集，可处理视频、音频、PDF 并进行格式转换
 - [Aconvert](https://www.aconvert.com/cn/) - 完全免费的文件格式转换网站
+- [Amie](https://amie.so/) - 可以提供给他人预约的个人日历工具
 - [AppFlowy.IO](https://www.appflowy.io/) - 开源版本的 Notion
 - [CleverPDF](https://www.cleverpdf.com/cn) - 完全免费的在线 PDF 工具
 - [CloudConvert](https://cloudconvert.com) - 文件格式转换，支持多达 218 种文件格式
