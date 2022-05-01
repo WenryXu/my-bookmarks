@@ -100,6 +100,7 @@
 - [Screen Sizes](https://www.screensizes.app/) - Apple 设备尺寸信息
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS 阴影调试生成器
 - [Simple Icons](http://simpleicons.org/) - 1400+ 品牌 LOGO icon
+- [Tabler Icons](https://tabler-icons.io/) - 开源 SVG 图标库
 - 💖 [TinyPNG](https://tinypng.com/) - 保证质量的图片压缩
 - 💖 [Unsplash](https://unsplash.com/) - 知名无版权图库
 - 💖 [unDraw](http://undraw.co/illustrations) - 可以更改颜色的 SVG 插画
