@@ -93,6 +93,7 @@
 - [Instant Logo Search](http://instantlogosearch.com) - 公司 LOGO 素材
 - [Isometric](https://isometric.online/) - 免费可商用插画
 - [Leonardo](https://leonardocolor.io/) - 基于指定对比度的颜色生成器
+- [OpenMoji](https://www.openmoji.org/) - 免费可商用表情符号素材
 - [Pixabay](https://pixabay.com/) - 无版权的免费图库
 - [Remix Icon](https://remixicon.com/) - 开源可商用的图标库
 - 💖 [Removebg](https://www.remove.bg/) - AI 自动抠图
