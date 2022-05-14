@@ -140,6 +140,7 @@
 - [刻意体会](https://kyth.hedwig.pub/) - 小宇宙产品经理 @kyth 的 Newsletter
 
 ## 在线文档
+- [产品管理手册](https://www.notion.so/bc8beed8a0734b43bf7c167f14321da9)
 - [Apple 人机交互指南](https://developer.apple.com/design/human-interface-guidelines/)
 - [iAR Design](http://iar.design/) - AR 的 Handbook
 - [Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/) - W3C 中文排版规范
