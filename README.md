@@ -153,6 +153,24 @@
 - [Maze Question Bank](https://mazedesign.notion.site/461e7de3f3ed4e25835d88f701fbf7c0?v=8e36ee3a7b224dcabf42ddf5484ed90a) - Maze 的用户体验研究问题库
 - [52 Design Principles](https://rpdc.xiaohongshu.com/52-design-principles) - 小红书产品设计中心整理的 52 条设计原则
 
+## Crypto
+
+### Multi-chain
+- [tofuNFT](https://tofunft.com/) - 多链 NFT 交易市场
+
+### Solana
+- [Magic Eden](https://magiceden.io/) - Solana NFT 交易市场
+- [Mercury](https://mercury.blocksmithlabs.io/) - Solana 白名单工具
+- [Hyperspace](https://hyperspace.xyz/) - Solana NFT 聚合市场
+- [Sol Sniper](https://www.solsniper.xyz/) - Solana NFT 狙击工具
+- [Solana Floor](https://solanafloor.com/) - Solana NFT 地板价分析工具
+
+### Arbitrum
+- [Trove](https://trove.treasure.lol/) - TreasureDAO 旗下 Arbitrum GameFi NFT 交易市场
+
+### Immutable X
+- [Immutable X Market](https://market.immutable.com/) - Immutable X NFT 交易市场
+
 ## 元宇宙
 - [Decentraland](https://decentraland.org/)
 - [Roblox](https://www.roblox.com/)
