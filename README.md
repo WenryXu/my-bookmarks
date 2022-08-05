@@ -119,6 +119,27 @@
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
 
+### 平台级设计规范
+
+- [Ant Design](https://ant.design/) - 阿里出品
+- [Element](https://element.eleme.io/) - 饿了么出品
+- [Element Plus](https://element-plus.gitee.io/) - Element 的 Vue3 版本
+- [Clarity Design](https://design.teambition.com/) - Teambition 出品
+- [Arco Design](https://arco.design/) - 字节跳动出品
+- [Semi Design](https://semi.design/) - 抖音出品
+- [TDesign](https://tdesign.tencent.com/) - 腾讯出品
+- [NutUI](https://nutui.jd.com/) - 京东出品
+- [Zan Design](https://design.youzan.com/) - 有赞出品
+- [Carbon Design System](https://carbondesignsystem.com/) - IBM 出品
+- [Atlassian Design System](https://atlassian.design/) - Atlassian 出品
+- [Lighting Design System](https://www.lightningdesignsystem.com/) - Salesforce 出品
+
+### 系统级设计规范
+
+- [HarmonyOS](https://developer.harmonyos.com/) - 华为出品
+- [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) - Apple 出品
+- [Material Design](https://www.material.io/) - Google 出品
+
 ## 可视化
 - [Raymarching Planet Generator](https://shader-experiments.vercel.app/PlanetGenerator) - 噪波星球生成器
 - [earth](https://earth.nullschool.net/) - 气象地球生成器
