@@ -129,6 +129,7 @@
 - [Semi Design](https://semi.design/) - 抖音出品
 - [TDesign](https://tdesign.tencent.com/) - 腾讯出品
 - [NutUI](https://nutui.jd.com/) - 京东出品
+- [UDCDesign](https://findesign.jd.com/) - 京东出品
 - [Zan Design](https://design.youzan.com/) - 有赞出品
 - [Carbon Design System](https://carbondesignsystem.com/) - IBM 出品
 - [Atlassian Design System](https://atlassian.design/) - Atlassian 出品
