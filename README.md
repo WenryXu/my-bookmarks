@@ -79,6 +79,7 @@
 
 ## 图形和设计
 - [3dicons](https://3dicons.co/) - 开源 3D 图标库
+- [Alphredo](https://alphredo.app/) - 半透明颜色生成器
 - [Base64 Image Encoder](https://www.base64-image.de/) - 在线图片 Base64 转码工具
 - [BigJPG](http://bigjpg.com/zh) - ai 人工智能图片放大
 - [BlenderKit](https://www.blenderkit.com/) - 可商用 Blender 模型库
