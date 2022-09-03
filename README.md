@@ -178,6 +178,9 @@
 
 ## Crypto
 
+### NFT
+- [NFTBank.ai](https://nftbank.ai/) - NFT 投资组合管理
+
 ### Multi-chain
 - [tofuNFT](https://tofunft.com/) - 多链 NFT 交易市场
 
