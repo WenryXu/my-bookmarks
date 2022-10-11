@@ -90,6 +90,7 @@
 - [Dotown](https://dotown.maeda-design-room.net/) - 前任天堂设计师的免费可商用像素画素材站
 - [emojimix](https://tikolu.net/emojimix) - 将随机两个 emoji 合并为一个表情
 - 💖 [Feather](https://feathericons.com/) - 开源线性图标库
+- [GradientsGuru](http://gradientsguru.com/) - 渐变背景色
 - [Hex Color Tool](https://www.cssfontstack.com/oldsites/hexcolortool/) - 十六进制颜色计算
 - [icon-Z](https://icon-z.com/index.html) - 在线捏脸工具，素材多
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) - 解决和批量编辑图片相关的任何问题
