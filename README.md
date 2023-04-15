@@ -1,15 +1,10 @@
 # My Bookmarks
-## 财务
-- [CoinMarketCap](https://coinmarketcap.com) - 数字货币价格与趋势
-- [PayPay猪](https://paypayzhu.com) - 个人收款解决方案
 
 ## 参考
-- [Appscope](https://appsco.pe/) - PWA 应用大全
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - macOS 动态壁纸
 - [FilmGrab](https://film-grab.com/) - 全世界电影截图汇总
 - [iBeta 尝鲜派](https://ibeta.me/) - 简单的方式尝试 Apple Beta 版固件
 - [Mobile Phone Museum](https://www.mobilephonemuseum.com/) - 手机博物馆
-- [Unicode character table](https://unicode-table.com/en/) - Unicode 字符列表
 - [untools](https://untools.co/) - 思考工具和框架及使用方法
 - [番组放送](https://bgmlist.com/) - 新番放送时间与站点
 - [发现报告](https://www.fxbaogao.com/) - 行业 / 公司 / 宏观研究报告
@@ -17,7 +12,6 @@
 - [国家法律法规数据库](https://flk.npc.gov.cn/) - 中国现行有效的宪法（含修正案）、法律、行政法规、地方性法规、自治条例和单行条例、经济特区法规、司法解释电子文本
 - [国家中小学网络云平台](https://ykt.eduyun.cn/) - 教育部中央电化教育馆推出中小学在线学习资源
 - [后续](https://houxu.app/) - 持续追踪热点新闻
-- [千亿像素看中国](http://pf.bigpixel.cn/zh-CN.html) - 中国、世界城市照片
 - [全历史](https://www.allhistory.com/) - 世界国家历史时间轴
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/) - 更新日志编写规范
 - [微信读书排行榜~热门标注](http://klib.me/weread/hot/all.html) - 微信读书排行榜与书内热门标注
@@ -44,11 +38,9 @@
 - 💖 [Table Convert Online](https://tableconvert.com/) - 表格生成器，支持多种格式，可导入
 - [Tables Generator](https://www.tablesgenerator.com) - 表格生成器，支持 LaTeX、HTML、Text、Markdown、MediaWiki
 - 💖 [秘塔写作猫](https://xiezuocat.com/) - AI 写作校阅
-- [师姐降重](https://sj.biee.net/) - 论文查重降重
 - [团子](https://dango.ai/) - AI 提取伴奏与人声
 - 💖 [小码短链接](https://xiaomark.com/) - 渠道短链接，记录访问人次，随时更改链接
 - [致美化](https://zhutix.com/) - Windows 系统美化工具平台
-- [HUANGWU19](https://huangwu19.com/) - Twitter 涨粉平台
 
 ## 软件开发工具
 - [ASCIIFlow](http://asciiflow.com/) - 字符画绘制工具
@@ -68,14 +60,6 @@
 - [Shields](https://shields.io/) - Github 中常见的项目版本号、状态小盾牌
 - [stackshare](https://stackshare.io/) - 查看其他公司的技术栈
 - [What every Browser knows about you](http://webkay.robinlinus.com/) - 浏览器知道你的哪些信息
-- [字蛛](http://font-spider.org/) - 只引入网站使用的文字的字体文件
-
-## 商务
-- [超级简历](https://www.wondercv.com/) - 简历撰写工具
-- [程序员客栈](https://www.proginn.com/) - 远程工作
-- [会议桌](https://www.huiyizhuo.com/) - 可视化团队协作工具
-- [小画桌](https://xiaohuazhuo.com/) - 在线协作白板
-- [云队友](https://nework360.com/) - 远程工作
 
 ## 图形和设计
 - [3dicons](https://3dicons.co/) - 开源 3D 图标库
@@ -121,29 +105,7 @@
 - [泼辣有图](http://www.polayoutu.com/collections) - CC0 协议授权的图库
 - [手机屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm) - 手机屏幕尺寸大全
 
-### 平台级设计规范
-
-- [Ant Design](https://ant.design/) - 阿里出品
-- [Element](https://element.eleme.io/) - 饿了么出品
-- [Element Plus](https://element-plus.gitee.io/) - Element 的 Vue3 版本
-- [Clarity Design](https://design.teambition.com/) - Teambition 出品
-- [Arco Design](https://arco.design/) - 字节跳动出品
-- [Semi Design](https://semi.design/) - 抖音出品
-- [TDesign](https://tdesign.tencent.com/) - 腾讯出品
-- [NutUI](https://nutui.jd.com/) - 京东出品
-- [UDCDesign](https://findesign.jd.com/) - 京东出品
-- [Zan Design](https://design.youzan.com/) - 有赞出品
-- [Carbon Design System](https://carbondesignsystem.com/) - IBM 出品
-- [Atlassian Design System](https://atlassian.design/) - Atlassian 出品
-- [Lighting Design System](https://www.lightningdesignsystem.com/) - Salesforce 出品
-
-### 系统级设计规范
-
-- [HarmonyOS](https://developer.harmonyos.com/) - 华为出品
-- [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) - Apple 出品
-- [Material Design](https://www.material.io/) - Google 出品
-
-## 可视化
+## 可视化工具
 - [Raymarching Planet Generator](https://shader-experiments.vercel.app/PlanetGenerator) - 噪波星球生成器
 - [earth](https://earth.nullschool.net/) - 气象地球生成器
 - [Planet Maker](http://planetmaker.apoapsys.com/) - 写实星球生成器
@@ -159,12 +121,6 @@
 - [阿里巴巴普惠体](https://ics.alibaba.com/font/alibaba-sans) - 免费可商用
 - [问藏书房品牌字体](http://www.wencang.com/font.jsp) - 免费可商用
 
-## 内容订阅
-- [增长黑客周刊（GHacker.vip）往期存档](https://www.notion.so/GHacker-vip-ac21e4002f0b466f9e67610ca2845b68) - 《增长黑客》作者范冰（@XDash）维护的 Newsletter 存档
-- [犬校精华贴](https://www.notion.so/2018-20-00d2afab8bbe4a4bbdb9811f884ba1da) - @纯银 发起的产品经理私密社区精华讨论合集（2018 年 - 2020 年 1 月）
-- [产品沉思录（精选） ProductThinking](https://www.notion.so/ProductThinking-a601a12335044f349a22caf57f274c27) - @少楠 发起的 Newsletter《产品沉思录》精选集
-- [刻意体会](https://kyth.hedwig.pub/) - 小宇宙产品经理 @kyth 的 Newsletter
-
 ## 在线文档
 - [产品管理手册](https://www.notion.so/bc8beed8a0734b43bf7c167f14321da9)
 - [Apple 人机交互指南](https://developer.apple.com/design/human-interface-guidelines/)
@@ -177,39 +133,5 @@
 - [Maze Question Bank](https://mazedesign.notion.site/461e7de3f3ed4e25835d88f701fbf7c0?v=8e36ee3a7b224dcabf42ddf5484ed90a) - Maze 的用户体验研究问题库
 - [52 Design Principles](https://rpdc.xiaohongshu.com/52-design-principles) - 小红书产品设计中心整理的 52 条设计原则
 
-## Crypto
-
-### NFT
-- [NFTBank.ai](https://nftbank.ai/) - NFT 投资组合管理
-
-### Multi-chain
-- [tofuNFT](https://tofunft.com/) - 多链 NFT 交易市场
-
-### Solana
-- [Magic Eden](https://magiceden.io/) - Solana NFT 交易市场
-- [Mercury](https://mercury.blocksmithlabs.io/) - Solana 白名单工具
-- [Hyperspace](https://hyperspace.xyz/) - Solana NFT 聚合市场
-- [Sol Sniper](https://www.solsniper.xyz/) - Solana NFT 狙击工具
-- [Solana Floor](https://solanafloor.com/) - Solana NFT 地板价分析工具
-
-### Arbitrum
-- [Trove](https://trove.treasure.lol/) - TreasureDAO 旗下 Arbitrum GameFi NFT 交易市场
-
-### Immutable X
-- [Immutable X Market](https://market.immutable.com/) - Immutable X NFT 交易市场
-
-## 元宇宙
-- [Decentraland](https://decentraland.org/)
-- [Roblox](https://www.roblox.com/)
-- [The Sandbox Game](https://www.sandbox.game/)
-- [Axie Infinity](https://axieinfinity.com/)
-- [Cryptovoxels](https://www.cryptovoxels.com/)
-
-## 网页
-- [高教社二维码服务平台](https://2d.hep.com.cn/)
-- [三士渡教育](https://stoooges.com/web/)
-- [Stripe Press](https://press.stripe.com/)
-- [The Sea We Breathe](https://www.bluemarinefoundation.com/the-sea-we-breathe/)
-- [Dala](https://dala.craftedbygc.com/)
-- [Vivid+Co](https://vividand.co/)
-- [ToyFight](https://toyfight.co/)
+## AI
+- [Leonardo.Ai](https://leonardo.ai/) - 用于生成游戏素材的 AI
